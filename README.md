@@ -8,3 +8,9 @@ enabling data-driven decisions and improved customer service.
 Key Features:
 - Real-time call center performance metrics
 - Interactive visualizations for easy data exploration
+
+
+
+![Dashboard | Home](https://github.com/nafsahmad/Call_center_analysis/blob/main/Screenshot%202023-11-06%20083141.png)
+
+![Dashboard | Grid](https://github.com/nafsahmad/Call_center_analysis/blob/main/Screenshot%202023-11-06%20083232.png)
